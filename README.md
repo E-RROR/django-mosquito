@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/2297/2297334.svg" height="250" width="250" /> 
+  <img src="https://www.flaticon.com/svg/static/icons/svg/2297/2297334.svg" height="250" width="250" />
 </p>
 <h1 align="center">Django Mosquito 🦟</h1>
 <h4 align="center">Limit visitors to your django app by count</h4>
 <p align="center">
   <img src="https://img.shields.io/pypi/v/django-mosquito"/>
-  <img src="https://img.shields.io/github/issues/E-RROR/django-mosquito"/>
+  <img src="https://img.shields.io/github/issues/E-RROR/djangomosquito"/>
 </p>
 
 # Whats Django Mosquito
