@@ -4,8 +4,8 @@
 <h1 align="center">Django Mosquito 🦟</h1>
 <h4 align="center">Limit visitors to your django app by count</h4>
 <p align="center">
-  <img src="https://img.shields.io/pypi/v/django-mosquito"/>
-  <img src="https://img.shields.io/github/issues/E-RROR/djangomosquito"/>
+  <img src="https://img.shields.io/pypi/v/djangomosquito"/>
+  <img src="https://img.shields.io/github/issues/E-RROR/django-mosquito"/>
 </p>
 
 # Whats Django Mosquito
