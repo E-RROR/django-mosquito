@@ -11,7 +11,7 @@ setup(
     name = 'djangomosquito',
     packages = ['djangomosquito'],
     license = 'MIT',
-    version = '0.0.3',
+    version = '0.0.4',
     description = 'Limit visitors to your django app by count',
     long_description = long_description,
     long_description_content_type='text/markdown',
