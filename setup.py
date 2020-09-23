@@ -9,7 +9,7 @@ with open(path.join(project_path, 'README.md')) as f:
 
 setup(
     name = 'djangomosquito',
-    packages = ['djangomosquito'],
+    packages = ['mosquito'],
     license = 'MIT',
     version = '0.0.1',
     description = 'Limit visitors to your django app by count',
